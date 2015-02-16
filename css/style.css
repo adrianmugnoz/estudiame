@@ -735,7 +735,7 @@ footer {
 }
 
 .video-block {
-    margin: 0 auto;
+    margin: 0 auto 34px;
     position: relative;
     max-width: 740px;
     padding-bottom: 46.25%;
