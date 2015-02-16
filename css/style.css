@@ -745,8 +745,6 @@ footer {
 }
 
 .video-block iframe {
-  max-height: 480px;
-  maw-width: 740px;
   position: absolute;
   top:15px;
   bottom:15px;
