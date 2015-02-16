@@ -731,14 +731,14 @@ footer {
 }
 
 .video {
-    padding: 108px 0 116px
+    padding: 108px 0 50px
 }
 
 .video-block {
     margin: 0 auto;
     position: relative;
     max-width: 740px;
-    padding-bottom: 56.25%;
+    padding-bottom: 46.25%;
     padding-top: 35px;
     height: 0;
     overflow: hidden;
